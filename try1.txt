@@ -1,0 +1,4 @@
+This is final try of Day 1.
+assume that, in this file some error exist, so I restore the file from Index tree to Working
+tree.
+Now I'm adding this file to Index Tree again.
